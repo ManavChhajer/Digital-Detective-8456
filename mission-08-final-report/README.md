@@ -12,7 +12,7 @@
 
 ## 2. Commit history
 
-Twelve commits in total. Commit 9 was made on the `update-about` branch, and commit 10 is the merge commit GitHub created when I merged the pull request.
+Thirteen commits in total. Commit 9 was made on the `update-about` branch, and commit 10 is the merge commit GitHub created when I merged the pull request.
 
 | # | Hash | Message |
 | :-: | :-: | :--- |
@@ -27,9 +27,10 @@ Twelve commits in total. Commit 9 was made on the `update-about` branch, and com
 | 9 | [`1f3cee1`](https://github.com/ManavChhajer/Digital-Detective-8456/commit/1f3cee1) | Add ABOUT.md on update-about branch for pull request |
 | 10 | [`571da43`](https://github.com/ManavChhajer/Digital-Detective-8456/commit/571da43) | Merge pull request #1 from ManavChhajer/update-about |
 | 11 | [`a1c42a8`](https://github.com/ManavChhajer/Digital-Detective-8456/commit/a1c42a8) | Mission 7: add networking report with ping, DNS and HTTP evidence |
-| 12 | this commit | Mission 8: add final report, commit hashes, PR link and remaining evidence |
+| 12 | [`b39ee49`](https://github.com/ManavChhajer/Digital-Detective-8456/commit/b39ee49) | Mission 8: add final report, commit hashes, PR link and remaining evidence |
+| 13 | this commit | Fix report wording to match evidence and update commit history |
 
-The hash of commit 12 can't be written inside itself; `git log --oneline` shows it.
+The hash of commit 13 can't be written inside itself; `git log --oneline` shows it.
 
 ---
 

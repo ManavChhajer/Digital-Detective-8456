@@ -13,7 +13,7 @@ All practice happened inside the project folder `Digital-Detective-8456`.
 
 | Task | Command | What it does | What I saw |
 | :--- | :--- | :--- | :--- |
-| Show where I am | `pwd` | Prints the full path of my current folder | `/Users/<me>/Desktop/Digital-Detective-8456` |
+| Show where I am | `pwd` | Prints the full path of my current folder | `/Users/<me>/Documents/Digital-Detective-8456` |
 | List contents | `ls` | Shows files and folders | The mission folders, `README.md` and `evidence/` |
 | Detailed list | `ls -l` | Adds permissions, owner, size and date | `drwxr-xr-x` for folders, `-rw-r--r--` for files |
 | Go up / into a folder | `cd ..` and `cd <folder>` | Changes my location | `pwd` confirmed each move |
@@ -31,8 +31,8 @@ I worked in a separate `terminal-practice/` folder so nothing important could be
 
 ```bash
 mkdir terminal-practice && cd terminal-practice
-echo "Mission 2: Terminal practice log" > practice.txt
-echo "Line 2: added without erasing line 1" >> practice.txt
+echo "Mission 2: Terminal Investigation Log" > practice.txt
+echo "Line 2: Appending data safely without truncation" >> practice.txt
 cat practice.txt
 cp practice.txt practice_backup.txt
 mv practice_backup.txt practice_archive.txt
@@ -40,8 +40,8 @@ mv practice_backup.txt practice_archive.txt
 
 Result of `cat practice.txt`:
 ```text
-Mission 2: Terminal practice log
-Line 2: added without erasing line 1
+Mission 2: Terminal Investigation Log
+Line 2: Appending data safely without truncation
 ```
 
 ### Questions

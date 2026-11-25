@@ -11,7 +11,7 @@
 
 ## 2. What I did
 1. Named the repository using the required pattern.
-2. Cloned it so I had a local project folder.
+2. Created a local project folder and linked it to the repo.
 3. Created one folder per mission (`mission-00-setup` to `mission-08-final-report`) plus `evidence/`.
 4. Added a `README.md` to the root and to every mission folder.
 5. Checked that Git and Python work.

@@ -81,5 +81,5 @@ Running the converter with `99`, `255` and an invalid input.
 
 ## 7. Reflections
 - Hex is just a shorter way of writing binary, which is why programmers like it.
-- Checking by hand first, then with code, caught a mistake in one of my early conversions.
+- Working each conversion by hand first and then checking it with the script gave the same answer every time.
 - A computer has no idea what "A" is; it only stores the number 65 and a program decides to show it as a letter.

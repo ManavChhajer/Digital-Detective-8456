@@ -82,7 +82,7 @@ I also opened **Activity Monitor** (live memory and process use) and **Disk Util
 - RAM is fast but temporary; the SSD is slower but permanent.
 - Utilities are programs that look after the system; they are not the OS itself.
 
-**A difficulty:** I mixed up the OS and utilities at first. It helped to think of the OS as the manager of the computer and utilities as the maintenance crew.
+**A way to remember it:** think of the OS as the manager of the computer and utilities as the maintenance crew.
 
 ---
 
